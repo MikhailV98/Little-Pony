@@ -1,0 +1,9 @@
+D:\work\desktop\projects\C#\Ponies App\Ponies App\bin\Debug\Ponies App.exe.config
+D:\work\desktop\projects\C#\Ponies App\Ponies App\bin\Debug\Ponies App.exe
+D:\work\desktop\projects\C#\Ponies App\Ponies App\bin\Debug\Ponies App.pdb
+D:\work\desktop\projects\C#\Ponies App\Ponies App\obj\Debug\Ponies App.csprojResolveAssemblyReference.cache
+D:\work\desktop\projects\C#\Ponies App\Ponies App\obj\Debug\Ponies_App.Form1.resources
+D:\work\desktop\projects\C#\Ponies App\Ponies App\obj\Debug\Ponies_App.Properties.Resources.resources
+D:\work\desktop\projects\C#\Ponies App\Ponies App\obj\Debug\Ponies App.csproj.GenerateResource.Cache
+D:\work\desktop\projects\C#\Ponies App\Ponies App\obj\Debug\Ponies App.exe
+D:\work\desktop\projects\C#\Ponies App\Ponies App\obj\Debug\Ponies App.pdb
